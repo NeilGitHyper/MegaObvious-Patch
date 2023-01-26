@@ -15,5 +15,5 @@ Just Open and edit One-By-One The script
 # Extraction
 While Extracting, There Will Be a pass. By Entering The Pass You Agree To The Rules.
 
-Pass:ziplicence
+Pass:ziplicence 
 
